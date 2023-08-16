@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luciano Gonzalez</h1>
-<h3 align="center">Soy un apasionado desarrollador frontend de Argentina.</h3>
+<h3 align="center">Soy un frontend apasionado de Argentina.</h3>
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/luciano-gonzalez-6a700a289](www.linkedin.com/in/luciano-gonzalez-6a700a289)
 
